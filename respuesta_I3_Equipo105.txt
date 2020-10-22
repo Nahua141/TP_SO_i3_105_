@@ -1,1 +1,4 @@
-
+Acosta Pablo Nahuel
+a- El master queda con los archivos Beta.txt, con el archivo CPU de todos los integrantes y con datos.txt.
+b- Beta si pudo ver todos los cambios que se realizaron.
+c- Para hacer el merge se utilizaron los comandos: git pull (para actualizar el repositorio), git merge <branch> (para fusionar otra rama con la rama activa) y git push (para subir los cambios)
