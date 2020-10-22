@@ -14,4 +14,10 @@ echo "Hora: " >> Beta.txt (Para escribir los datos pedidos)
 git add . (para añadir los el archivo modificado)
 git push (para subir los cambios)
 
+Facundo Gabriel Falcioni
+g- En el punto 8 use el comando git clone "url" del repositorio para descargarlo de forma local, una vez descargado
+use el git checkout Acosta (nombre del branch), se actualizo el repositorio, ejecute el ifconfig, lo guarde en un archivo
+el cual luego copie en el beta.txt junto con mi nombre y la hora, git add . para agregar los cambios
+git commit -m "Datos alfa" y por ultimo git push para subir los archivos.
+
 
